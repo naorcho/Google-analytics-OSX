@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Google Analytics Reports' target in the 'Google Analytics Reports' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
